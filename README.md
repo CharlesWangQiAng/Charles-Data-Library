@@ -18,6 +18,8 @@ The dataset used in this project is sourced from over 600 pieces of my sleep dat
   Gradient Boosting Machine (GBM)
 
   KNN
+# Data Science Techniques Used
+Pandas, Numpy, PyTorch, Matplotlib, Sklearn, MLP, LSTM, Random Forest, GBM, KNN, etc.
 # Tools Used
 Python, Jupyter Notebook
 # Usage
